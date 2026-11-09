@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Konfigurasi MCP lokal (berisi path mesin pribadi)
+.mcp.json
+
+# Build / export
+/build/
+/export/
+*.pck
